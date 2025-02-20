@@ -23,7 +23,7 @@ Welcome to the Habit Tracker Application! This Python-based application provides
 ### Installation
 1. Clone the repository:
   
-   git clone https://github.com/ashrafasran/IU_Project
+   git clone https://github.com/ashrafasran/IU_Project_Python
 ### Usage
 1. Create Account: Launch the application and register using your email and password.
 2. Log In: Use your credentials to access your dashboard. 
